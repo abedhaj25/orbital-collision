@@ -1,3 +1,3 @@
-# electric field 
+# orbital collision
 
-with this code we can visualize the 2d electric field produced charged particles
+this code runs a game using pygame, to simulate particle and orbital movement
